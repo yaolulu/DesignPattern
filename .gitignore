@@ -1,0 +1,8 @@
+
+# Ignore some folders
+.gradle
+.idea
+gradle
+
+# Ignore some types
+*.class
